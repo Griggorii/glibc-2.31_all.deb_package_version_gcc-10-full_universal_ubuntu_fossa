@@ -1,6 +1,6 @@
 # glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa
 
-source , deb package rebuild by griggorii
+source , deb package rebuild by griggorii source + glibc-2.31/selinux
 
 Deb package download: https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31
 
