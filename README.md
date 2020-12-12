@@ -1,4 +1,4 @@
-# glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa
+# glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology 
 
 source , deb package rebuild by griggorii source + glibc-2.31/selinux
 
@@ -15,5 +15,7 @@ $ sudo su XZ_OPT=-9 tar -Jcvf original_local_nakompeliroval_lishnego_govna.tar.x
 $ sudo -i rm -rf /usr/local && tar xvpf original_local_nakompeliroval_lishnego_govna.tar.xz -C / && exit && x-www-browser www.youtube.com/watch?v=9B-nTJyEZX0
 
 После этой команды будет загружатся джуст фо фан
+
+Возможно кто то уже взял отсюда /lib/libc.so.6 и сделал новую операционную систему , на данный момент эта система должна быть быстрее во всяком случае эта компания должна сказать что исходник отсюда если она не поддерживает сговор с целью обогащения не автора , а лиц менее причастных.
 
 Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
