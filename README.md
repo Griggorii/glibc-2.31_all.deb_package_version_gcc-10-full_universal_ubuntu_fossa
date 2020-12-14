@@ -1,4 +1,4 @@
-# glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology 
+# glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology , gfortan rebuild perfomance
 
 source , deb package rebuild by griggorii source + glibc-2.31/selinux
 
