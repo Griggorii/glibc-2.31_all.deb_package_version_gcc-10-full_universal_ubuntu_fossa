@@ -6,7 +6,7 @@ Deb package download: https://github.com/Griggorii/glibc-2.31_all.deb_package_ve
 
 +source deb
 
-Recompile fortran patent griggorii install fortran mulilib:
+Recompile fortran patent griggorii install fortran mulilib version 10:
 
 $ sudo rm /usr/bin/x86_64-linux-gnu-gfortran-10 && sudo ln -s /usr/bin/x86_64-linux-gnu-gfortran-10 /usr/bin/x86_64-linux-gnu-gfortran
 
