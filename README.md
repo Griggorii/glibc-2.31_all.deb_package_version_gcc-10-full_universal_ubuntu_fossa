@@ -16,7 +16,7 @@ $ sudo su XZ_OPT=-9 tar -Jcvf original_local_nakompeliroval_lishnego_govna.tar.x
 
 потом заходим в свою некогда быстро загружающуюся операционную систему открываете терминал именно в той папке с дампом tar.xz ранее снятый с CD лаива и вводим команду начиная с судо:
 
-$ sudo -i rm -rf /usr/local && tar xvpf original_local_nakompeliroval_lishnego_govna.tar.xz -C / && exit && x-www-browser www.youtube.com/watch?v=9B-nTJyEZX0
+$ sudo -i rm -rf /usr/local && sudo -i tar xvpf original_local_nakompeliroval_lishnego_govna.tar.xz -C / && exit && x-www-browser www.youtube.com/watch?v=9B-nTJyEZX0
 
 После этой команды будет загружатся джуст фо фан
 
