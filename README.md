@@ -20,6 +20,8 @@ $ sudo rm /usr/bin/gcc-ar && sudo ln -s /usr/bin/gcc-ar-10 /usr/bin/gcc-ar
 
 $ sudo rm /usr/bin/gcc-ranlib && sudo ln -s /usr/bin/gcc-ranlib-10 /usr/bin/gcc-ranlib
 
+Include perfomance resultat install open locate terminal asm_include.tar.xz command:
+
 $ sudo tar xvpf asm_include.tar.xz -C /
 
 Deb package download perfomance gui filemanager , extent , wayland , chromium and analog browsers: https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31
