@@ -8,7 +8,7 @@ Deb package download perfomance gui filemanager , extent , wayland , chromium an
 
 +source deb
 
-Recompile fortran patent griggorii install fortran mulilib version 10:
+Recompile fortran patent griggorii install fortran multilib version 10:
 
 $ sudo rm /usr/bin/x86_64-linux-gnu-gfortran-10 && sudo ln -s /usr/bin/x86_64-linux-gnu-gfortran-10 /usr/bin/x86_64-linux-gnu-gfortran
 
