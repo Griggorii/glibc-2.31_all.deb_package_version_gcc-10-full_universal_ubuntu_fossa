@@ -24,7 +24,7 @@ Include perfomance resultat install open locate terminal asm_include.tar.xz comm
 
 $ sudo tar xvpf asm_include.tar.xz -C /
 
-and alternative include not install mount bind -o /usr/include rebuild umont 
+and alternative include not install mount bind -o /usr/include rebuild umont include dev
 
 Deb package download perfomance gui filemanager , extent , wayland , chromium and analog browsers: https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31
 
