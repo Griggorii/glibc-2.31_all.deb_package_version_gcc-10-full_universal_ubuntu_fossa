@@ -8,7 +8,7 @@ install dependency
 
 $ sudo rm /usr/bin/gcc && sudo ln -s /usr/bin/gcc-10 /usr/bin/gcc
 
-$ sudo rm /usr/bin/gcc && sudo ln -s /usr/bin/python3.8d gcc-10 /usr/bin/python3
+$ sudo rm /usr/bin/python3 && sudo ln -s /usr/bin/python3.8 /usr/bin/python3
 
 $ sudo rm /usr/bin/gcc-ar && sudo ln -s /usr/bin/gcc-ar-10 /usr/bin/gcc-ar
 
