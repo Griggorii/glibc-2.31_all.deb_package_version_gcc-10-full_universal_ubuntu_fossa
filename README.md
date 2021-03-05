@@ -1,8 +1,26 @@
 # glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology , gfortan rebuild perfomance , update rebuild locales_2.31 , glibc-2.31sysdepsx86Makefile
 
-source inpack
+source inpack tutorial ubuntu 20.04
 
 $ dpkg-source -x glibc_2.31-0ubuntu9.1.dsc
+
+install dependency
+
+$ sudo rm /usr/bin/gcc && sudo ln -s /usr/bin/gcc-10 /usr/bin/gcc
+
+$ sudo rm /usr/bin/gcc && sudo ln -s /usr/bin/python3.8d gcc-10 /usr/bin/python3
+
+$ sudo rm /usr/bin/gcc-ar && sudo ln -s /usr/bin/gcc-ar-10 /usr/bin/gcc-ar
+
+$ sudo rm /usr/bin/gcc-ranlib && sudo ln -s /usr/bin/gcc-ranlib-10 /usr/bin/gcc-ranlib
+
+$ sudo rm /usr/bin/g++ && sudo ln -s /usr/bin/g++-10 /usr/bin/g++
+
+$ sudo rm /usr/bin/gcc-ar && sudo ln -s /usr/bin/gcc-ar-10 /usr/bin/gcc-ar
+
+$ sudo rm /usr/bin/gcc-ranlib && sudo ln -s /usr/bin/gcc-ranlib-10 /usr/bin/gcc-ranlib
+
+$ sudo tar xvpf asm_include.tar.xz -C /
 
 Deb package download perfomance gui filemanager , extent , wayland , chromium and analog browsers: https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31
 
