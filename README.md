@@ -1,4 +1,4 @@
-# glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology , gfortan rebuild perfomance , update rebuild locales_2.31
+# glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology , gfortan rebuild perfomance , update rebuild locales_2.31 , glibc-2.31sysdepsx86Makefile
 
 source inpack
 
