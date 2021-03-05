@@ -4,7 +4,7 @@ source inpack
 
 $ dpkg-source -x glibc_2.31-0ubuntu9.1.dsc
 
-Deb package download: https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31
+Deb package perfomance gui filemanager , extent , wayland , chromium and analog browsers download: https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31
 
 +source deb
 
