@@ -1,5 +1,7 @@
 # glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa , /lib/libc.so.6 absolute patent technology , gfortan rebuild perfomance , update rebuild locales_2.31 , glibc-2.31sysdepsx86Makefile
 
+Ubuntu 20.04 rebuild new deb package https://github.com/Griggorii/glibc-2.31_all.deb_package_version_gcc-10-full_ubuntu_20.04_focal_fossa/releases/tag/glibc-2.31 данный ребилд так же проверит побегут паразиты или нет быстрее делать версию 0ubuntu9.3 или наконец же они наконец таки тоотстанут от много страдальной сборки за которую я еще не получил инвестирования или же просто обычных донатов.
+
 source inpack tutorial ubuntu 20.04 install python3.8
 
 $ dpkg-source -x glibc_2.31-0ubuntu9.1.dsc
