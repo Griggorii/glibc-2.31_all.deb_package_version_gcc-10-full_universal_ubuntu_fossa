@@ -4,3 +4,7 @@ Ubuntu 20.04 rebuild new deb package https://github.com/Griggorii/glibc-2.31_all
 
 New architecture Prof /lib/libc6-prof/x86_64-linux-gnu Fri, 02 Jul 2021
 
+Only real technologies, not any fictional parasitic distributions support real technology investments and donate VISA 4817 7601 8112 4706
+
+Griggorii@gmail.com
+
