@@ -10,5 +10,7 @@ New architecture Prof /lib/libc6-prof/x86_64-linux-gnu Fri, 02 Jul 2021 скор
 
 Only real technologies, not any fictional parasitic distributions support real technology investments and donate dollar VISA 4817 7601 8112 4706
 
+fix control-center + gnome-shell_ubuntu-20.04_bonus https://youtu.be/45iNZPhmIas
+
 Griggorii@gmail.com
 
